@@ -12,7 +12,7 @@ A simple webpage that emulates a registration form.
 
 ## About The Webpage
 
-A project that is a result from a freeCodeCamp guided course on creating a registration form and the inputs that come with said form using CSS and HTML.
+A project that is a result of a freeCodeCamp guided course on creating a registration form and the inputs that come with said form using CSS and HTML.
 
 ---
 
